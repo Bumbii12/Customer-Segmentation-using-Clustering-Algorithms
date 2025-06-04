@@ -1,3 +1,10 @@
+# Nama Kelompok 2 :
+- Muhammad Rozagi (G1A022008)
+- Ulfa Stevi Juliana (G1A022042)
+- Revo pratama (G1A022058)
+- Rizki Ramadani D. (G1A022054)
+- Ahmad Zul Zhafran (G1A022088)
+
 # 📊 Customer Segmentation using Clustering Algorithms
 
 Proyek ini merupakan studi eksploratif untuk membandingkan tiga algoritma *unsupervised learning* dalam melakukan segmentasi pelanggan berdasarkan dataset ritel. Tiga algoritma yang digunakan yaitu **K-Means**, **K-Medoids**, dan **DBSCAN**.
